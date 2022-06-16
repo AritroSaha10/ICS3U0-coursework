@@ -1,7 +1,7 @@
 # Python Assignment 1
 
 ## Task
-You will be creating a program focused on a sport/activity/hobby that begins with the first letter of your last name (my last name is ‘Kowalczewski’ so I can do a program about ‘Kite Flying’).
+You will be creating a program focused on a sport/activity/hobby that begins with the first letter of your last name (my last name is ‘Doe’ so I can do a program about ‘Disc Golf’).
 
 Your program should:
 - Allow the user to interact (`input()`)
